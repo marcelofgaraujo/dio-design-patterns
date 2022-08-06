@@ -11,4 +11,4 @@ Practice of the design patterns singleton, strategy and facade.<br>
 Use of ViaCEP API as an address data provider.<br>
 Use of H2 Database.</p>
 <h2>License</h2>
-<p>This project is under <a href="https://github.com/marcelofgaraujo/dio-design-patterns/blob/main/license">MIT License.</a></p>
+<p>This project is under <a href="https://github.com/marcelofgaraujo/dio-design-patterns/blob/main/license.md">MIT License.</a></p>
